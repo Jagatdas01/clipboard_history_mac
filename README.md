@@ -3,7 +3,7 @@
 Lightweight macOS clipboard history utility (single menu bar diamond icon + global hotkey) written in Swift (SwiftUI + AppKit interop).
 
 <div align="center">
-  <img src="clip Export/clip-macOS-Default-1024x1024@1x.png" alt="ClipBoardDone Icon" width="120" height="120" />
+  <img src="clip Exports/clip-macOS-Default-1024x1024@1x.png" alt="ClipBoardDone Icon" width="120" height="120" />
   <br/>
   <sub>Application Icon</sub>
 </div>

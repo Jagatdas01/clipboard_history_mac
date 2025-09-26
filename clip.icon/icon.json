@@ -1,0 +1,70 @@
+{
+  "fill" : {
+    "solid" : "display-p3:0.96611,0.94985,0.96051,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode" : "soft-light",
+          "fill-specializations" : [
+            {
+              "value" : {
+                "linear-gradient" : [
+                  "display-p3:0.96611,0.40239,0.23019,1.00000",
+                  "display-p3:1.04016,0.56664,0.42199,1.00000"
+                ]
+              }
+            },
+            {
+              "appearance" : "tinted",
+              "value" : {
+                "solid" : "display-p3:0.26139,0.30096,1.00000,1.00000"
+              }
+            }
+          ],
+          "hidden" : true,
+          "image-name" : "clip-2-svgrepo-com.svg",
+          "name" : "clip-2-svgrepo-com"
+        },
+        {
+          "blend-mode" : "screen",
+          "fill" : {
+            "linear-gradient" : [
+              "display-p3:0.10222,0.28767,0.96611,1.00000",
+              "display-p3:0.29741,0.46432,1.07492,1.00000"
+            ]
+          },
+          "hidden" : false,
+          "image-name" : "paper-clip.png",
+          "name" : "paper-clip",
+          "position-specializations" : [
+            {
+              "appearance" : "light",
+              "value" : {
+                "scale" : 1.3,
+                "translation-in-points" : [
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : [
+      "macOS"
+    ]
+  }
+}
